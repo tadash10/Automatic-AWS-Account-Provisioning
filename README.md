@@ -1,6 +1,6 @@
 # Automatic-AWS-Account-Provisioning
 
-# AWS Account Provisioning Script
+
 
 ## Overview
 
