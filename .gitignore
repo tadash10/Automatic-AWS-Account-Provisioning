@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+
+# Logs
+*.log
+
+# Virtual Environments
+venv/
+env/
